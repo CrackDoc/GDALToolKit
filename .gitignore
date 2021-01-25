@@ -1,0 +1,68 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/CMake Overview
+.vs/cmake.db
+.vs/GDALToolKit/v16/.suo
+.vs/GDALToolKit/v16/Browse.VC.db
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.gitattributes
+out/build/x64-Debug (默认值)/.cmake/api/v1/query/client-MicrosoftVS/query.json
+out/build/x64-Debug (默认值)/.cmake/api/v1/reply/cache-v2-3b65b1b9a6a7f2733c28.json
+out/build/x64-Debug (默认值)/.cmake/api/v1/reply/cmakeFiles-v1-0bfa946885629704d1ae.json
+out/build/x64-Debug (默认值)/.cmake/api/v1/reply/codemodel-v2-20c3baa35cff4cf32880.json
+out/build/x64-Debug (默认值)/.cmake/api/v1/reply/index-2021-01-25T02-24-27-0209.json
+out/build/x64-Debug (默认值)/.cmake/api/v1/reply/target-GDALToolKit-Debug-4aef62416b3afcc9313f.json
+out/build/x64-Debug (默认值)/.cmake/api/v1/reply/target-UnitTest-Debug-4cb0834cff8372a5e71c.json
+out/build/x64-Debug (默认值)/build.ninja
+out/build/x64-Debug (默认值)/cmake_install.cmake
+out/build/x64-Debug (默认值)/CMakeCache.txt
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CMakeCCompiler.cmake
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CMakeCXXCompiler.cmake
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CMakeDetermineCompilerABI_C.bin
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CMakeDetermineCompilerABI_CXX.bin
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CMakeRCCompiler.cmake
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CMakeSystem.cmake
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdC/CMakeCCompilerId.c
+out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+out/build/x64-Debug (默认值)/CMakeFiles/cmake.check_cache
+out/build/x64-Debug (默认值)/CMakeFiles/CMakeOutput.log
+out/build/x64-Debug (默认值)/CMakeFiles/rules.ninja
+out/build/x64-Debug (默认值)/CMakeFiles/ShowIncludes/foo.h
+out/build/x64-Debug (默认值)/CMakeFiles/ShowIncludes/main.c
+out/build/x64-Debug (默认值)/CMakeFiles/TargetDirectories.txt
+out/build/x64-Debug (默认值)/GDALToolKit/cmake_install.cmake
+out/build/x64-Debug (默认值)/Testing/Temporary/LastTest.log
+out/build/x64-Debug (默认值)/UnitTest/cmake_install.cmake
+out/build/x64-Debug (默认值)/VSInheritEnvironments.txt
